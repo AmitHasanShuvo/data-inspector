@@ -6,6 +6,10 @@ bin-release/
 
 # Other files and folders
 .settings/
+.build/
+.dist/
+.data_inspector.egg-info/
+
 
 # Executables
 *.swf
