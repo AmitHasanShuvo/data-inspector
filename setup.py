@@ -10,7 +10,7 @@ setuptools.setup(
     long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
     License='MIT',
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/AmitHasanShuvo/data-inspector",
     keywords='eda',
     packages=setuptools.find_packages(),
     classifiers=[

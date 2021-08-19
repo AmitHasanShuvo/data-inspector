@@ -6,7 +6,7 @@
 
 Data Inspector brings a total of 15 essential exploratory data analysis, data cleaning automations to make a dataset understandable. This is a perfect tool to get started with you data.
 
-data inspector helps to make 
+
 ## Installation
 
 ```pip install data-inspector```
@@ -35,5 +35,11 @@ Package available at https://pypi.org/project/data-inspector/
 
 
 
+
+
+### Some visualizations
+<img  src="assets/feature_1.png"  width= "550px"  height="650px"/>
+<br>
+<img  src="assets/feature_2.png"  width= "550px"  height="650px"/>
 
 
