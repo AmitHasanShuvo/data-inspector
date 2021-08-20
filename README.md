@@ -37,6 +37,7 @@ Package available at https://pypi.org/project/data-inspector/
 
 ### Tutorial: 
 Link: https://github.com/AmitHasanShuvo/data-inspector/blob/main/notebook/example%20notebook.ipynb 
+<br>
 Colab link: https://colab.research.google.com/drive/1mj9gz2XyQprSYdKMUKlKkJ9Qi8XmleHW?usp=sharing
 ### Some visualizations: 
 
