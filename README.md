@@ -39,7 +39,7 @@ Package available at https://pypi.org/project/data-inspector/
 Link: https://github.com/AmitHasanShuvo/data-inspector/blob/main/notebook/example%20notebook.ipynb 
 ### Some visualizations: 
 
-<img  src="assets/feature_3.png"  width= "950px"  height="450px"/>
+<img  src="assets/feature_3.png"  width= "950px"  height="400px"/>
 <br>
 <img  src="assets/feature_1.png"  width= "550px"  height="650px"/>
 <br>
