@@ -2,10 +2,12 @@
 ## This python library brings different functions to make EDA, data cleaning easier. 
 ### Author: Kazi Amit Hasan
 
+
 ## Project Description: 
 
 Data Inspector brings a total of 15 essential exploratory data analysis, data cleaning automations to make a dataset understandable. This is a perfect tool to get started with you data.
 
+[![Downloads](https://static.pepy.tech/personalized-badge/data-inspector?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/data-inspector)
 
 ## Installation
 
