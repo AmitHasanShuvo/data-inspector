@@ -43,14 +43,10 @@ Link: https://github.com/AmitHasanShuvo/data-inspector/blob/main/notebook/exampl
 Colab link: https://colab.research.google.com/drive/1mj9gz2XyQprSYdKMUKlKkJ9Qi8XmleHW?usp=sharing
 ### Some visualizations: 
 
-<<<<<<< HEAD
-
 ### Some visualizations
 
 <img  src="assets/feature_3.png"  width= "950px"  height="350px"/>
-=======
-<img  src="assets/feature_3.png"  width= "950px"  height="400px"/>
->>>>>>> 89de8bceb4cbe5c6d04aceaab50304142981cd1c
+
 <br>
 <img  src="assets/feature_1.png"  width= "550px"  height="650px"/>
 <br>
