@@ -1,11 +1,13 @@
 # Data Inspector 
-## This module brings different functions to make EDA, data cleaning easier. 
+## This python library brings different functions to make EDA, data cleaning easier. 
 ### Author: Kazi Amit Hasan
+
 
 ## Project Description: 
 
 Data Inspector brings a total of 15 essential exploratory data analysis, data cleaning automations to make a dataset understandable. This is a perfect tool to get started with you data.
 
+[![Downloads](https://static.pepy.tech/personalized-badge/data-inspector?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/data-inspector)
 
 ## Installation
 
@@ -35,11 +37,20 @@ Package available at https://pypi.org/project/data-inspector/
 
 
 
+### Tutorial: 
+Link: https://github.com/AmitHasanShuvo/data-inspector/blob/main/notebook/example%20notebook.ipynb 
+<br>
+Colab link: https://colab.research.google.com/drive/1mj9gz2XyQprSYdKMUKlKkJ9Qi8XmleHW?usp=sharing
+### Some visualizations: 
 
+<<<<<<< HEAD
 
 ### Some visualizations
 
 <img  src="assets/feature_3.png"  width= "950px"  height="350px"/>
+=======
+<img  src="assets/feature_3.png"  width= "950px"  height="400px"/>
+>>>>>>> 89de8bceb4cbe5c6d04aceaab50304142981cd1c
 <br>
 <img  src="assets/feature_1.png"  width= "550px"  height="650px"/>
 <br>
