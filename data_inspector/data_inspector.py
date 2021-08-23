@@ -226,3 +226,10 @@ def calculating_missing_values(data):
         plt.show()
     else:
         print ('No missing values here')
+        
+        
+        
+        
+# python3 setup.py sdist bdist_wheel
+# twine upload --skip-existing dist/*
+# twine upload dist/*

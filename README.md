@@ -39,10 +39,13 @@ Package available at https://pypi.org/project/data-inspector/
 
 ### Some visualizations
 
-<img  src="assets/feature_3.png"  width= "950px"  height="650px"/>
+<img  src="assets/feature_3.png"  width= "950px"  height="350px"/>
 <br>
 <img  src="assets/feature_1.png"  width= "550px"  height="650px"/>
 <br>
-<img  src="assets/feature_2.png"  width= "950px"  height="650px"/>
+<img  src="assets/feature_2.png"  width= "950px"  height="450px"/>
+
+
+
 
 
