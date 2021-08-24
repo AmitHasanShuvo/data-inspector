@@ -52,6 +52,15 @@ Colab link: https://colab.research.google.com/drive/1mj9gz2XyQprSYdKMUKlKkJ9Qi8X
 <br>
 <img  src="assets/feature_2.png"  width= "950px"  height="450px"/>
 
+### How to cite
+  ```bibtex
+@online{data-inspector,
+  title={data-inspector},
+  url={https://pypi.org/project/data-inspector/},
+  urldate = {2021-08-21}, 
+  publisher={Kazi Amit Hasan}
+}
+```
 
 ### How to contribute
 Any contribution would be highly appreciated. Kindly go through the guidelines for contributing in github.
