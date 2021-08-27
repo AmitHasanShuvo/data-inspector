@@ -1,11 +1,7 @@
 # Data Inspector 
 Data Inspector is an open-source python library that brings 15 types of different functions to make EDA, data cleaning easier.
 
-<p align="center">
-
-<img  src="assets/data inspector.png"  width= "250px"  height="250px"/>
-  
-</p>
+<p align="center"> <img  src="assets/data inspector.png"  width= "250px"  height="250px"/> </p>
 
 ## Author: Kazi Amit Hasan
 
