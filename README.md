@@ -1,4 +1,10 @@
 # Data Inspector 
+<p align="center">
+
+<img  src="assets/data inspector.png"  width= "450px"  height="450px"/>
+  
+</p>
+
 ## This python library brings different functions to make EDA, data cleaning easier. 
 ### Author: Kazi Amit Hasan
 
