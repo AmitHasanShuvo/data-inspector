@@ -7,7 +7,7 @@ Data Inspector is an open-source python library that brings 15 types of differen
   
 </p>
 
-### Author: Kazi Amit Hasan
+## Author: Kazi Amit Hasan
 
 
 ## Project Description: 
