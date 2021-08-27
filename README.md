@@ -5,11 +5,11 @@
 
 ## Project Description: 
 
-Data Inspector brings a total of 15 essential exploratory data analysis, data cleaning automations to make a dataset understandable. This is a perfect tool to get started with you data.
+Data Inspector brings a total of 15 essential exploratory data analysis, data cleaning automations to make a dataset understandable. This is a perfect tool to get started with you data. 
 
 [![Downloads](https://static.pepy.tech/personalized-badge/data-inspector?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/data-inspector)
 
-## Installation
+## Installation:
 
 ```pip install data-inspector```
 
@@ -43,7 +43,7 @@ Link: https://github.com/AmitHasanShuvo/data-inspector/blob/main/notebook/exampl
 Colab link: https://colab.research.google.com/drive/1mj9gz2XyQprSYdKMUKlKkJ9Qi8XmleHW?usp=sharing
 
 
-### Some visualizations
+### Some visualizations:
 
 <img  src="assets/feature_3.png"  width= "950px"  height="350px"/>
 
@@ -52,7 +52,7 @@ Colab link: https://colab.research.google.com/drive/1mj9gz2XyQprSYdKMUKlKkJ9Qi8X
 <br>
 <img  src="assets/feature_2.png"  width= "950px"  height="450px"/>
 
-### How to cite
+### How to cite:
   ```bibtex
 @online{data-inspector,
   title={data-inspector},
@@ -62,7 +62,9 @@ Colab link: https://colab.research.google.com/drive/1mj9gz2XyQprSYdKMUKlKkJ9Qi8X
 }
 ```
 
-### How to contribute
+### Future Works:
+
+### How to contribute:
 Any contribution would be highly appreciated. Kindly go through the guidelines for contributing in github.
 
 
