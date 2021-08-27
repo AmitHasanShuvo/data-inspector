@@ -69,6 +69,7 @@ Colab link: https://colab.research.google.com/drive/1mj9gz2XyQprSYdKMUKlKkJ9Qi8X
 ```
 
 ### Future Works:
+1. Add some automations for time series data.
 
 ### How to contribute:
 Any contribution would be highly appreciated. Kindly go through the guidelines for contributing in github.
