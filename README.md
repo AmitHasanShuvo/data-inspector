@@ -2,7 +2,7 @@
 ![Author](https://img.shields.io/badge/author-AmitHasanShuvo-orange)
 [![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/AmitHasanShuvo/data-inspector/blob/main/LICENCE.txt)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AmitHasanShuvo/data-inspector)
-[![Stars](https://img.shields.io/github/stars/AmitHasanShuvo/Machine-Learning-Competitions.svg?style=social)](https://github.com/AmitHasanShuvo/data-inspector)
+[![Stars](https://img.shields.io/github/stars/AmitHasanShuv/data-inspector.svg?style=social)](https://github.com/AmitHasanShuvo/data-inspector)
 
 
 Data Inspector is an open-source python library that brings 15 types of different functions to make EDA, data cleaning easier.
