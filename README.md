@@ -1,7 +1,7 @@
 # Data Inspector 
 <p align="center">
 
-<img  src="assets/data inspector.png"  width= "450px"  height="450px"/>
+<img  src="assets/data inspector.png"  width= "250px"  height="250px"/>
   
 </p>
 
