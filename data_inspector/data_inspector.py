@@ -82,6 +82,19 @@ def plot_scatter(data,x_data, y_data):
     plt.grid()
     
     
+# fucntion to show regression plots with 95% CI
+# Reference:
+   
+def plot_regplot(data,x_data, y_data):
+
+    plt.figure(figsize=(15,5))
+    sns.regplot(data[x_data], data[y_data], data=data);
+    plt.title(f'{x_data} vs {y_data}', fontsize=15, fontweight='bold')
+    plt.xlabel(f'{x_data}', fontsize=15, fontweight='bold')
+    plt.ylabel(f'{y_data}', fontsize=15, fontweight='bold')
+    plt.grid()
+    
+    
 # fucntion to show correlations
 # Reference: https://seaborn.pydata.org/examples/many_pairwise_correlations.html
 

@@ -3,6 +3,7 @@
 [![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/AmitHasanShuvo/data-inspector/blob/main/LICENCE.txt)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AmitHasanShuvo/data-inspector)
 [![Stars](https://img.shields.io/github/stars/AmitHasanShuvo/data-inspector.svg?style=social)](https://github.com/AmitHasanShuvo/data-inspector/stargazers)
+[![Downloads](https://static.pepy.tech/personalized-badge/data-inspector?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/data-inspector)
 
 Data Inspector is an open-source python library that brings 15 types of different functions to make EDA, data cleaning easier.
 
@@ -13,9 +14,8 @@ Data Inspector is an open-source python library that brings 15 types of differen
 
 ## Project Description: 
 
-Data Inspector brings a total of 15 essential exploratory data analysis, data cleaning automations to make a dataset understandable. This is a perfect tool to get started with you data. 
+Data Inspector brings 15++ essential exploratory data analysis, data cleaning automations to make a dataset understandable. This is a perfect tool to get started with you data. 
 
-[![Downloads](https://static.pepy.tech/personalized-badge/data-inspector?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/data-inspector)
 
 ## Installation:
 
@@ -42,6 +42,7 @@ Package available at https://pypi.org/project/data-inspector/
 13. Get pearson's correlation between two variables: ```get_correlation(column_1, column_2, data)```
 14. Plotting kde plots:``` plot_cont_kde(data, var)``` 
 15. Automatic calculating the missing values and their percentage along with visualization : ```calculating_missing_values(data)```
+16. Regression plot with 95% CI : ```plot_regplot(data,x_data, y_data)```
 
 
 
