@@ -16,6 +16,8 @@ Data Inspector is an open-source python library that brings 15 types of differen
 
 Data Inspector brings 15++ essential exploratory data analysis, data cleaning automations to make a dataset understandable. This is a perfect tool to get started with you data. 
 
+### Latest Added Feature:
+Added regplots in the library
 
 ## Installation:
 
